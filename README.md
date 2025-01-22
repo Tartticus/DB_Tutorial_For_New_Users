@@ -16,7 +16,7 @@ open powershell as admin press windows key (right click) then type
 open the downloadgit.ps1 file then press windows key and right click powershell as asministrator, then paste the code in and press enter
 
 
-# Cloning and making reoi 
+# Cloning and making repo:
 1. run in powershell -  git clone https://github.com/tartticus//DB_Tutorial_For_New_Users.git
 
 2. run in powershell - .//DB_Tutorial_For_New_Users/run_script_with_update.ps1
